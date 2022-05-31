@@ -1,1 +1,0 @@
-cmd_/home/tishu/Work/uni/so2/linux/tools/labs/skels/./assignments/0-list/modules.order := {   echo /home/tishu/Work/uni/so2/linux/tools/labs/skels/./assignments/0-list/list.ko; :; } | awk '!x[$$0]++' - > /home/tishu/Work/uni/so2/linux/tools/labs/skels/./assignments/0-list/modules.order
